@@ -8,5 +8,5 @@ Deja tu huella, salva el plante: bolsas ecoamigables
 
 
 <div style="text-align: center">
-  <img src="https://github.com/pitLaboulaye/pitLaboulaye.github.io/blob/main/logoPit.jpg" alt="Descripción de la imagen" />
+  <img src="https://pitLaboulaye.github.io/logoPit.jpg" alt="Descripción de la imagen" />
 </div>
