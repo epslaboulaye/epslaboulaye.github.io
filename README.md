@@ -6,4 +6,4 @@ Proyecto de Innovación Educativa 2024
 Deja tu huella, salva el plante: bolsas ecoamigables
 
 
-![logo del PIT 14/17 Sede Laboulaye](url completa de la imagen)
+![logo del PIT 14/17 Sede Laboulaye](https://github.com/pitLaboulaye/pitLaboulaye.github.io/blob/main/logoPit.jpg)
