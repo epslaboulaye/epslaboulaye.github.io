@@ -28,6 +28,11 @@ body{
     text-align: center;
 }
 
+.imagen{
+    width: 300px;
+    height: auto;
+}
+
 .poster{
     padding: 20px;
     color: #FEFEFE;
