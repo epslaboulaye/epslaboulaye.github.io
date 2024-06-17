@@ -6,7 +6,7 @@ body{
     background-color: #414141;
     padding: 20px;
     color: #FEFEFE;
-    font-family: Arial, sans-serif;
+    font-family: Open Sans;
     font-size: 40px;
     text-align: center;
 }
@@ -15,7 +15,7 @@ body{
     background-color: #FEFEFE;
     padding: 20px;
     color: #414141;
-    font-family: Arial, sans-serif;
+    font-family: Open Sans;
     font-size: 30px;
     text-align: center;
 }
@@ -23,7 +23,7 @@ body{
 .c3{
     padding: 20px;
     color: #FEFEFE;
-    font-family: Arial, sans-serif;
+    font-family: Merriweather;
     font-size: 20px;
     text-align: center;
 }
@@ -36,7 +36,7 @@ body{
 .poster{
     padding: 20px;
     color: #FEFEFE;
-    font-family: Arial, sans-serif;
+    font-family: Merriweather;
     font-size: 20px;
     text-align: center;
 }

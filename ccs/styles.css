@@ -1,0 +1,67 @@
+/* Reseteo de algunos estilos por defecto */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilos generales */
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Encabezado */
+header {
+  background: #FF7300;
+  color: #fff;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+/* Contenedor principal */
+.container {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+}
+
+/* Cuerpo principal */
+main {
+  flex: 1;
+  padding: 1rem;
+}
+
+/* Barra lateral */
+aside {
+  flex: 0 0 300px;
+  padding: 1rem;
+  background: #f4f4f4;
+}
+
+/* Pie de página */
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+  margin-top: auto;
+}
+
+/* Estilos responsivos */
+@media (max-width: 768px) {
+  aside {
+    flex: 1 0 100%;
+    order: -1; /* Coloca la barra lateral antes del cuerpo principal en pantallas pequeñas */
+  }
+}
+
+@media (max-width: 480px) {
+  header, footer {
+    padding: 0.5rem 0;
+  }
+}
+
