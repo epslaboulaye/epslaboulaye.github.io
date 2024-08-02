@@ -1,14 +1,11 @@
 # https://pitLaboulaye.github.io  
-Sitio Web Oficial del Programa PIT 14/17 Sede Laboulaye  
+Sitio Web Oficial EPS Sede Laboulaye  
 
 Proyecto de Innovación Educativa 2024  
 
-Deja tu huella, salva el plantea: bolsas ecoamigables
+Dejá tu huella, salvá el plantea: bolsas eco-amigables
 
-<div style="text-align: center">
-  <img src="https://pitLaboulaye.github.io/logoPit.jpg" alt="Descripción de la imagen" />
-  
-</div>
+
 
 
 
