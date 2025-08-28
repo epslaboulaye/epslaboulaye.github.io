@@ -1,0 +1,71 @@
+
+.c1{
+    background-color: #414141;
+    padding: 20px;
+    color: #FEFEFE;
+    font-family: Open Sans;
+    font-size: 40px;
+    text-align: center;
+}
+
+.c2{
+    background-color: #FF7300;
+    padding: 20px;
+    color: #FEFEFE;
+    font-family: Open Sans;
+    font-size: 30px;
+    text-align: center;
+}
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+  margin-top: auto;
+}
+
+.c3{
+    padding: 20px;
+    
+    font-family: Merriweather;
+    font-size: 20px;
+    text-align: center;
+}
+
+.imagen{
+    width: 300px;
+    height: auto;
+}
+
+.poster{
+    padding: 20px;
+    
+    font-family: Merriweather;
+    font-size: 20px;
+    text-align: center;
+}
+.boton {
+            display: inline-block;
+            padding: 12px 24px;
+            font-size: 16px;
+            font-family: Arial, sans-serif;
+            color: white;
+            background-color: #414141;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 8px;
+            box-shadow: 0 4px #999;
+            transition: all 0.3s ease;
+        }
+
+.boton:hover {
+            background-color: #4CAF50;
+            box-shadow: 0 6px #666;
+            transform: translateY(-2px);
+        }
+
+        .boton:active {
+            background-color: #414141;
+            box-shadow: 0 2px #666;
+            transform: translateY(4px);
+        }
