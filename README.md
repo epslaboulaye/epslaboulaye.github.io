@@ -1,9 +1,9 @@
 # https://epslaboulaye.github.io
-Sitio Web Oficial EPS Sede Laboulaye  
+Sitio Web Oficial PIT Sede Laboulaye  
 
-Proyecto de Innovación Educativa 2024  
+Proyecto de Innovación Educativa 2025
 
-Dejá tu huella, salvá el plantea: bolsas eco-amigables
+Dejá tu huella, emprende con propósito: eco bolsas
 
 
 
